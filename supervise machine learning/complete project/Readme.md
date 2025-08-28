@@ -41,3 +41,7 @@
     - homoscedasticity (constant variance) of residuals
     - no autocorrelation of residuals
     - no multicollinearity (for multiple linear regression)
+
+12. how to deploy this model
+    1. `Pickling` → Saving a Python object into a file (binary format).
+    2. `Unpickling` → Loading the saved object back into memory
